@@ -1,0 +1,688 @@
+{
+  "schemaVersion": 1,
+  "sets": [
+    {
+      "id": "2026-11-09-digital-materials",
+      "date": "2026-11-09",
+      "title": "讓數位教材更好用",
+      "topic": "高等教育",
+      "description": "從課程調整通知練習轉折語、常用搭配與不定詞。",
+      "passage": "Last semester, several students said they found it difficult to keep track of their reading. The course team shared a weekly checklist. {{q1}}, the checklist was stored in a separate folder, so many students overlooked it. This semester, the team will {{q2}} the checklist into the main course page. After a short trial, the lecturers agreed {{q3}} keep the new layout for the rest of the term.",
+      "passageZh": "上學期，有幾位學生表示很難掌握閱讀進度。課程團隊分享了每週檢核表。不過，檢核表放在另一個資料夾，所以不少學生沒看到。這學期，團隊會把檢核表整合到課程首頁。短期試用後，授課老師同意在本學期剩下的時間沿用新版面。",
+      "cloze": [
+        {
+          "id": "q1",
+          "answer": "However",
+          "options": [
+            "However",
+            "Similarly",
+            "Therefore",
+            "For example"
+          ],
+          "explanation": "團隊分享了檢核表，但不少學生仍沒看到。However 用於轉折，指出這項做法遇到的問題。"
+        },
+        {
+          "id": "q2",
+          "answer": "integrate",
+          "options": [
+            "distribute",
+            "integrate",
+            "replace",
+            "remove"
+          ],
+          "explanation": "integrate A into B 表示把 A 整合進 B。這裡指把檢核表整合到課程首頁。"
+        },
+        {
+          "id": "q3",
+          "answer": "to",
+          "options": [],
+          "explanation": "agree to + 原形動詞表示同意做某件事。agree with 後面通常接人或意見。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "overlook",
+          "pos": "v.",
+          "meaning": "忽略，沒有注意到",
+          "example": "Even experienced lecturers may overlook accessibility issues when they update their course materials.",
+          "exampleZh": "即使是經驗豐富的老師，更新教材時也有時會忽略無障礙使用的問題。",
+          "note": "overlook a detail，漏看一個細節"
+        },
+        {
+          "id": "v2",
+          "word": "integrate",
+          "pos": "v.",
+          "meaning": "整合，納入",
+          "example": "The department plans to integrate short videos into the course so that students can review key concepts at home.",
+          "exampleZh": "系上計畫把短影片納入課程，讓學生在家複習重要概念。",
+          "note": "integrate something into a course，把某項內容納入課程"
+        },
+        {
+          "id": "v3",
+          "word": "keep track of",
+          "pos": "片語",
+          "meaning": "掌握進度，持續追蹤",
+          "example": "A shared spreadsheet helps tutors keep track of which students have submitted their assignments.",
+          "exampleZh": "共用試算表能幫助助教掌握哪些學生已繳交作業。",
+          "note": "keep track of progress，掌握進度"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-workshop-email",
+      "date": "2026-11-10",
+      "title": "一封清楚的研習通知",
+      "topic": "職場溝通",
+      "description": "用活動通知練習截止時間、報名確認與工作分配。",
+      "passage": "Places at next month's training session are limited. To reserve a seat, please respond {{q1}} Friday afternoon at the latest. We will send a confirmation email once your registration has been {{q2}}. On the day of the workshop, a member of our team will be responsible {{q3}} checking names at the entrance.",
+      "passageZh": "下個月的研習名額有限。若要保留座位，請最遲在週五下午前回覆。報名處理完成後，我們會寄出確認信。研習當天，團隊會派一位同仁在入口核對姓名。",
+      "cloze": [
+        {
+          "id": "q1",
+          "answer": "by",
+          "options": [
+            "during",
+            "since",
+            "by",
+            "throughout"
+          ],
+          "explanation": "by Friday afternoon 表示最遲在週五下午前。at the latest 提示這是截止時間。"
+        },
+        {
+          "id": "q2",
+          "answer": "processed",
+          "options": [
+            "processed",
+            "performed",
+            "provided",
+            "practised"
+          ],
+          "explanation": "process a registration 是處理報名。has been processed 表示報名已處理完畢，使用現在完成式的被動語態。"
+        },
+        {
+          "id": "q3",
+          "answer": "for",
+          "options": [],
+          "explanation": "be responsible for 表示負責。介系詞 for 後可以接名詞或動名詞，此處接 checking names。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "reserve",
+          "pos": "v.",
+          "meaning": "預留，預訂",
+          "example": "If the meeting room is unavailable, we can reserve a smaller room on the second floor.",
+          "exampleZh": "如果會議室無法使用，我們可以預訂二樓較小的房間。",
+          "note": "reserve a seat，預留座位"
+        },
+        {
+          "id": "v2",
+          "word": "confirmation",
+          "pos": "n.",
+          "meaning": "確認，確認通知",
+          "example": "Please keep the confirmation email in case the organisers need to check your registration.",
+          "exampleZh": "請保留確認信，以便主辦單位需要時核對你的報名資料。",
+          "note": "written confirmation，書面確認"
+        },
+        {
+          "id": "v3",
+          "word": "at the latest",
+          "pos": "片語",
+          "meaning": "最遲，最晚",
+          "example": "We need the revised slides by Thursday at the latest if we are going to print the handouts on Friday.",
+          "exampleZh": "如果週五要印講義，最晚週四就得拿到修改後的投影片。",
+          "note": "常放在期限之後，例如 by Monday at the latest。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-running-routine",
+      "date": "2026-11-11",
+      "title": "調整一週的跑步計畫",
+      "topic": "運動生活",
+      "description": "讀跑團訊息，練習條件句、配速相關字彙與介系詞。",
+      "passage": "Our running group usually meets on Wednesday evenings. This week, the riverside path is closed for repairs, so we have {{q1}} a different route. The route includes a steep hill, but you can shorten the run {{q2}} you prefer an easier session. The pace you choose should depend {{q3}} how your legs feel after the first ten minutes.",
+      "passageZh": "跑團通常在週三傍晚集合。這週河濱步道封閉維修，所以我們安排了另一條路線。路線有一段陡坡，如果想跑得輕鬆些，可以縮短距離。前十分鐘跑完後，再依腿部的感受決定配速。",
+      "cloze": [
+        {
+          "id": "q1",
+          "answer": "planned",
+          "options": [
+            "noticed",
+            "attended",
+            "repaired",
+            "planned"
+          ],
+          "explanation": "原路線封閉，跑團已安排新路線。have planned 是現在完成式。"
+        },
+        {
+          "id": "q2",
+          "answer": "if",
+          "options": [
+            "unless",
+            "if",
+            "although",
+            "until"
+          ],
+          "explanation": "if 表示如果。想跑得輕鬆是縮短路線的條件。unless 會讓條件反過來。"
+        },
+        {
+          "id": "q3",
+          "answer": "on",
+          "options": [],
+          "explanation": "depend on 表示取決於。depend upon 也正確，語氣較正式。",
+          "accepted": [
+            "upon"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "pace",
+          "pos": "n.",
+          "meaning": "速度，配速",
+          "example": "Although the group started at a comfortable pace, several runners slowed down on the final hill.",
+          "exampleZh": "跑團一開始的配速很舒服，但有幾位跑者到了最後一段坡路便放慢速度。",
+          "note": "maintain a steady pace，維持穩定的配速"
+        },
+        {
+          "id": "v2",
+          "word": "shorten",
+          "pos": "v.",
+          "meaning": "縮短",
+          "example": "We decided to shorten the route because some runners needed to leave before dark.",
+          "exampleZh": "有些跑者需要在天黑前離開，所以我們決定縮短路線。",
+          "note": "shorten a route，縮短路線"
+        },
+        {
+          "id": "v3",
+          "word": "steep",
+          "pos": "adj.",
+          "meaning": "陡峭的",
+          "example": "The climb becomes steeper near the top, where the path turns away from the river.",
+          "exampleZh": "步道快到頂端時會轉離河岸，那一段坡度也變得更陡。",
+          "note": "a steep slope，一段陡坡"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-campus-feedback",
+      "date": "2026-11-12",
+      "title": "把試用回饋帶回課堂",
+      "topic": "高等教育",
+      "description": "從教學平台試用摘要，練習讓步句與採納意見的用法。",
+      "passage": "The department asked teachers to test the platform with a small class before making a decision. {{q1}} the feedback was generally positive, some teachers found the instructions difficult to follow. The project team will {{q2}} the guide and ask a different group to try it. The final decision will take both groups' feedback {{q3}} account.",
+      "passageZh": "系上請老師先在小班試用平台，再決定是否採用。雖然大部分回饋都很正面，還是有老師覺得操作說明不容易看懂。專案團隊會修改指南，並請另一組老師試用。系上做決定時會把兩組意見都考慮進去。",
+      "cloze": [
+        {
+          "id": "q1",
+          "answer": "Although",
+          "options": [
+            "Because",
+            "Until",
+            "Although",
+            "Whenever"
+          ],
+          "explanation": "大部分回饋正面，仍有老師遇到困難。Although 引出讓步子句，表示兩種情況同時存在。"
+        },
+        {
+          "id": "q2",
+          "answer": "revise",
+          "options": [
+            "reserve",
+            "revise",
+            "remind",
+            "rely"
+          ],
+          "explanation": "revise 是修改。操作說明不易理解，所以團隊要修改指南。"
+        },
+        {
+          "id": "q3",
+          "answer": "into",
+          "options": [],
+          "explanation": "take something into account 是固定搭配，意思是將某事納入考量。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "feedback",
+          "pos": "n.",
+          "meaning": "回饋意見",
+          "example": "The course team collected feedback from students before deciding which activities to keep.",
+          "exampleZh": "課程團隊先蒐集學生意見，再決定保留哪些活動。",
+          "note": "feedback 通常是不可數名詞。"
+        },
+        {
+          "id": "v2",
+          "word": "revise",
+          "pos": "v.",
+          "meaning": "修改，修訂",
+          "example": "The lecturer revised the instructions so that students could complete the task without extra guidance.",
+          "exampleZh": "老師修訂了操作說明，讓學生可以自行完成任務。",
+          "note": "revise a draft，修改草稿"
+        },
+        {
+          "id": "v3",
+          "word": "take into account",
+          "pos": "片語",
+          "meaning": "納入考量",
+          "example": "When planning a new course, we need to take into account how much time students can spend on weekly reading.",
+          "exampleZh": "規劃新課程時，我們需要考量學生每週能花多少時間閱讀。",
+          "note": "也可寫作 take something into account。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-study-partner",
+      "date": "2026-11-13",
+      "title": "約一場英文複習",
+      "topic": "學習策略",
+      "description": "用讀書夥伴的訊息，練習提議與常用片語。",
+      "passage": "I made a list of the expressions that caused me trouble this week. {{q1}} trying to memorise them all in one evening, I suggest that we each choose a few and explain them to one another. We can also {{q2}} a short example for each expression. Let me know if Tuesday works for you. I look forward {{q3}} hearing which words you picked.",
+      "passageZh": "我把這週弄錯的用語列出來了。我建議我們各挑幾個用語向對方解釋，這樣就不用硬在一個晚上全背起來。我們也可以為每個用語各想一個簡短的例句。週二你方便的話，跟我說一聲。我很想知道你挑了哪些字。",
+      "cloze": [
+        {
+          "id": "q1",
+          "answer": "Instead of",
+          "options": [
+            "As well as",
+            "Regardless of",
+            "Instead of",
+            "According to"
+          ],
+          "explanation": "Instead of + 動名詞表示替代做法。說話者提議互相解釋幾個用語，取代在一晚背完全部。"
+        },
+        {
+          "id": "q2",
+          "answer": "come up with",
+          "options": [
+            "run into",
+            "come up with",
+            "look after",
+            "put up with"
+          ],
+          "explanation": "come up with 表示想出，常接想法、例子或解決方式。"
+        },
+        {
+          "id": "q3",
+          "answer": "to",
+          "options": [],
+          "explanation": "look forward to 表示期待。這裡的 to 是介系詞，後面可以接 hearing 這類動名詞。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "expression",
+          "pos": "n.",
+          "meaning": "用語，表達方式",
+          "example": "When I notice an unfamiliar expression in a text, I try to guess what it means before looking it up.",
+          "exampleZh": "讀到不熟悉的用語時，我會先從上下文猜字義，再去查。",
+          "note": "a common expression，常見用語"
+        },
+        {
+          "id": "v2",
+          "word": "come up with",
+          "pos": "片語",
+          "meaning": "想出，提出",
+          "example": "Our study group came up with a simpler way to remember the difference between the two words.",
+          "exampleZh": "讀書小組想出一個更簡單的方法，幫助大家記住這兩個字的差別。",
+          "note": "come up with an example，想出一個例子"
+        },
+        {
+          "id": "v3",
+          "word": "memorise",
+          "pos": "v.",
+          "meaning": "記住，背熟",
+          "example": "It takes me longer to memorise an expression when I have never seen it used in a real conversation.",
+          "exampleZh": "如果從沒在真實對話中看過某個用語，我就得花更久才能背熟。",
+          "note": "美式拼法為 memorize。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-textbook-adoption",
+      "date": "2026-11-16",
+      "title": "試讀之後再選教材",
+      "topic": "大學教材採用",
+      "description": "用課程委員會的選書紀錄，練習表達評分、因果與資源使用。",
+      "passage": "The department is choosing a textbook for a first-year business course. One book includes recent examples, while the other offers more practice questions. To compare them fairly, the lecturers asked students to read a chapter from each book and record how long it took. They also asked students to {{q1}} the usefulness of the exercises on a scale from one to five. {{q2}}, the final decision will reflect students' experience as well as the lecturers' judgement. Before making a choice, the department will check whether every student can get access {{q3}} the online exercises.",
+      "passageZh": "系上正在為大一商管課程選教材。一本有較近期的案例，另一本則有較多練習題。為了公平比較，老師請學生各讀兩本書的一章，並記錄花了多少時間。老師也請學生以 1 到 5 分評估練習題的實用程度。這樣一來，最後的決定就能兼顧學生的實際使用經驗和老師的判斷。選書前，系上還會確認每位學生都能使用線上練習。",
+      "cloze": [
+        {
+          "id": "q1",
+          "options": [
+            "borrow",
+            "divide",
+            "rate",
+            "publish"
+          ],
+          "answer": "rate",
+          "explanation": "rate 表示評分。on a scale from one to five 交代了分數範圍，這裡是請學生對練習題的實用程度打分。"
+        },
+        {
+          "id": "q2",
+          "options": [
+            "In the meantime",
+            "On the contrary",
+            "For instance",
+            "As a result"
+          ],
+          "answer": "As a result",
+          "explanation": "As a result 用來連接原因和結果。老師蒐集了試讀時間與評分，因此選書時能納入學生的實際經驗。"
+        },
+        {
+          "id": "q3",
+          "options": [],
+          "answer": "to",
+          "explanation": "get access to + 名詞表示取得使用某項資源的機會或權限。此處的資源是 the online exercises。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "adopt",
+          "pos": "v.",
+          "meaning": "採用",
+          "example": "The lecturers decided to adopt the new textbook after students found its case studies easier to discuss.",
+          "exampleZh": "學生覺得新版教材的個案比較容易討論，老師因此決定採用這本書。",
+          "note": "adopt a textbook，採用一本教材。"
+        },
+        {
+          "id": "v2",
+          "word": "on a scale from",
+          "pos": "片語",
+          "meaning": "以某個分數範圍評分",
+          "example": "On a scale from one to five, how useful were the examples when you prepared for the quiz?",
+          "exampleZh": "以 1 到 5 分來評估，這些例子對你準備小考有多大幫助？",
+          "note": "用 from 和 to 標出分數的起點與終點。"
+        },
+        {
+          "id": "v3",
+          "word": "reflect",
+          "pos": "v.",
+          "meaning": "反映，呈現",
+          "example": "The final report should reflect what students actually experienced during the trial.",
+          "exampleZh": "最後的報告應反映學生在試用期間的實際經驗。",
+          "note": "reflect feedback，反映回饋意見。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-digital-platform-trial",
+      "date": "2026-11-17",
+      "title": "把平台操作說明改短一點",
+      "topic": "數位教學平台試用",
+      "description": "從一段平台試用紀錄，練習說明如何蒐集回饋與調整教材。",
+      "passage": "During a two-week trial of a digital platform, a lecturer asked students to complete a short activity before each class. Most students managed to finish it, but some said the instructions were too long to read on a phone. To find out how common the problem was, the lecturer {{q1}} responses from every group. The results showed that students wanted shorter instructions. {{q2}}, the lecturer simplified the instructions and asked a new group to try them. The revised instructions consist {{q3}} three short steps and a worked example, so students can refer to them quickly during class.",
+      "passageZh": "在為期兩週的數位平台試用期間，一位老師請學生在每次上課前完成一項簡短活動。大多數人順利做完，但有些人表示，操作說明太長，在手機上不容易讀完。為了了解問題有多普遍，老師蒐集了每一組的回覆。結果顯示，學生希望說明短一點。老師依回饋簡化說明，再請另一組學生試用。修訂後的說明包含三個簡短步驟和一個完整解題範例，讓學生上課時可以快速查閱。",
+      "cloze": [
+        {
+          "id": "q1",
+          "options": [
+            "discarded",
+            "collected",
+            "withdrew",
+            "forecast"
+          ],
+          "answer": "collected",
+          "explanation": "collect responses 表示蒐集回覆。老師需要各組學生的意見，才能判斷操作說明太長的問題有多普遍。"
+        },
+        {
+          "id": "q2",
+          "options": [
+            "For comparison",
+            "On the contrary",
+            "In response",
+            "In other words"
+          ],
+          "answer": "In response",
+          "explanation": "In response 表示因應前文提到的情況。學生希望縮短說明，老師便根據回饋調整內容。"
+        },
+        {
+          "id": "q3",
+          "options": [],
+          "answer": "of",
+          "explanation": "consist of 用來說明由哪些部分組成。此處的說明由三個步驟和一個解題範例組成。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "collect feedback",
+          "pos": "片語",
+          "meaning": "蒐集回饋",
+          "example": "We plan to collect feedback from students who used the platform on their phones.",
+          "exampleZh": "我們打算向曾用手機操作平台的學生蒐集回饋。",
+          "note": "collect feedback from someone，向某人蒐集回饋。"
+        },
+        {
+          "id": "v2",
+          "word": "revise",
+          "pos": "v.",
+          "meaning": "修訂，調整",
+          "example": "The lecturer revised the instructions after several students misunderstood the first step.",
+          "exampleZh": "有幾位學生誤解了第一個步驟，老師因此修訂了說明。",
+          "note": "revise instructions，修訂說明。"
+        },
+        {
+          "id": "v3",
+          "word": "worked example",
+          "pos": "名詞片語",
+          "meaning": "附解題步驟的範例",
+          "example": "The tutor added a worked example so that students could see how to calculate the result before trying it on their own.",
+          "exampleZh": "助教加了一個完整的解題範例，讓學生自行練習前可以先看計算過程。",
+          "note": "a worked example 會示範解題過程。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-campus-visit",
+      "date": "2026-11-18",
+      "title": "臨時換教室的校園拜訪",
+      "topic": "校園拜訪",
+      "description": "讀一段拜訪紀錄，練習確認時間、縮小討論範圍與後續聯繫。",
+      "passage": "I had arranged to visit a lecturer after her morning class, but a last-minute room change meant that I arrived at the wrong building. Rather than asking her to wait, I sent a short message to {{q1}} whether she was still free at eleven. She suggested meeting near the library, which gave us enough time to discuss the materials. I had planned to show several books. Given the shorter meeting, I {{q2}} the discussion to the two she had asked about. We agreed to follow {{q3}} by email after she had looked through the sample chapters.",
+      "passageZh": "我原本約好在老師上午的課結束後拜訪她，但教室臨時更換，我跑錯了大樓。我傳了一則短訊息，確認她 11 點是否還有空，以免讓她等。她提議在圖書館附近碰面，讓我們還有時間討論教材。我原本打算介紹好幾本書。由於會面時間縮短，我把討論範圍限在她問過的兩本。我們約好，等她翻閱完試讀章節，再用電子郵件聯繫。",
+      "cloze": [
+        {
+          "id": "q1",
+          "options": [
+            "confirm",
+            "assume",
+            "announce",
+            "predict"
+          ],
+          "answer": "confirm",
+          "explanation": "confirm whether 表示確認是否如此。因為教室臨時更換，說話者傳訊息確認老師 11 點還有沒有空。"
+        },
+        {
+          "id": "q2",
+          "options": [
+            "expanded",
+            "compared",
+            "limited",
+            "delayed"
+          ],
+          "answer": "limited",
+          "explanation": "limit A to B 表示把 A 限在 B 的範圍內。原本打算介紹好幾本，時間縮短後只談老師問過的兩本。"
+        },
+        {
+          "id": "q3",
+          "options": [],
+          "answer": "up",
+          "explanation": "follow up 表示在會面或聯絡之後接續處理。by email 交代後續聯絡的方式。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "last-minute",
+          "pos": "adj.",
+          "meaning": "最後一刻的，臨時的",
+          "example": "A last-minute change to the timetable gave us only twenty minutes to demonstrate the platform.",
+          "exampleZh": "課表臨時更動，我們只剩 20 分鐘可以示範平台。",
+          "note": "放在名詞前加連字號，例如 a last-minute change。"
+        },
+        {
+          "id": "v2",
+          "word": "look through",
+          "pos": "片語",
+          "meaning": "翻閱，瀏覽",
+          "example": "Could you look through the sample chapters before we discuss which topics suit your course?",
+          "exampleZh": "在討論哪些主題適合你的課程前，可以先翻閱試讀章節嗎？",
+          "note": "look through the notes，翻閱筆記。"
+        },
+        {
+          "id": "v3",
+          "word": "follow up",
+          "pos": "片語",
+          "meaning": "後續聯繫，追蹤處理",
+          "example": "I'll follow up with the lecturer next week to see whether she needs another copy.",
+          "exampleZh": "我下週會再聯絡老師，看看她是否還需要一本。",
+          "note": "follow up with someone，接著聯絡某人。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-workshop-venue",
+      "date": "2026-11-19",
+      "title": "研習場地臨時更換",
+      "topic": "校園研習安排",
+      "description": "讀一段研習調整紀錄，練習說明設備問題、場地限制與通知目的。",
+      "passage": "The training team had booked a room for a workshop, but a week before the event the projector failed. The technician could not {{q1}} that it would be repaired in time. The team found another room with a working projector, {{q2}} it could only seat twenty people. Since twenty-five people had registered, the organisers split the group into two sessions and asked everyone to confirm which session they could attend. They sent the new room number and a map to all participants to prevent anyone {{q3}} going to the original venue.",
+      "passageZh": "研習團隊已訂好教室，但活動前一週投影機故障。技術人員無法保證能及時修好。團隊找到另一間投影機可以使用的教室，但只有 20 個座位。由於已有 25 人報名，主辦人員把研習分成兩場，請每位參與者確認能參加哪一場。他們也把新的教室號碼和地圖寄給所有參與者，以免有人跑到原場地。",
+      "cloze": [
+        {
+          "id": "q1",
+          "options": [
+            "remind",
+            "apologise",
+            "repair",
+            "guarantee"
+          ],
+          "answer": "guarantee",
+          "explanation": "guarantee that 表示保證某事會發生。技術人員無法確定活動前能修好投影機，因此團隊開始找其他場地。"
+        },
+        {
+          "id": "q2",
+          "options": [
+            "but",
+            "because",
+            "so",
+            "unless"
+          ],
+          "answer": "but",
+          "explanation": "but 連接找到可用教室和座位仍不足這兩件事。下一句說已有 25 人報名，說明為何要分成兩場。"
+        },
+        {
+          "id": "q3",
+          "options": [],
+          "answer": "from",
+          "explanation": "prevent someone from doing something 表示防止某人做某事。寄送新教室號碼和地圖是為了避免參與者跑錯場地。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "seat",
+          "pos": "v.",
+          "meaning": "容納，可坐下",
+          "example": "The smaller room seats twenty people, so we will need a larger venue if everyone attends.",
+          "exampleZh": "較小的教室有 20 個座位，如果每個人都出席，我們就需要更大的場地。",
+          "note": "seat 作動詞時可用來說明場地能容納多少人。"
+        },
+        {
+          "id": "v2",
+          "word": "register for",
+          "pos": "片語",
+          "meaning": "報名參加",
+          "example": "Several teachers registered for the afternoon session after they checked their teaching schedules.",
+          "exampleZh": "幾位老師確認自己的授課時間後，報名了下午場。",
+          "note": "register for a workshop，報名研習。"
+        },
+        {
+          "id": "v3",
+          "word": "venue",
+          "pos": "n.",
+          "meaning": "活動場地",
+          "example": "The organisers chose a venue near the station so that participants could arrive easily by train.",
+          "exampleZh": "主辦人員選了車站附近的場地，方便參與者搭火車前往。",
+          "note": "a change of venue，更換活動場地。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-workplace-email",
+      "date": "2026-11-20",
+      "title": "在郵件裡說清楚交稿時間",
+      "topic": "職場英文郵件",
+      "description": "從回覆同事的郵件練習交代進度、說明目的與詢問時程影響。",
+      "passage": "A colleague emailed me to ask whether we could send revised slides by Thursday. The charts were ready, but the figures on the final slide still needed to be checked. In my reply, I {{q1}} that I could share a draft on Wednesday and send the final version after the figures had been confirmed. I added a brief note about which figures were still being checked, {{q2}} the team could decide whether the draft was enough for its rehearsal. I also asked my colleague whether receiving the final version on Friday would interfere {{q3}} the rehearsal.",
+      "passageZh": "同事寄信問我，能不能在週四前寄出修訂後的投影片。圖表已經做好，但最後一頁的數字還需要核對。我回信說明，週三可以先分享草稿，等數字確認後再寄出定稿。我簡短註明哪些數字還在核對，讓團隊判斷草稿是否足以用來彩排。我也問同事，如果週五才收到定稿，會不會影響彩排。",
+      "cloze": [
+        {
+          "id": "q1",
+          "options": [
+            "complained",
+            "denied",
+            "explained",
+            "apologised"
+          ],
+          "answer": "explained",
+          "explanation": "explain that 可以接子句，清楚交代情況。這封回信說明草稿和定稿的交付安排。"
+        },
+        {
+          "id": "q2",
+          "options": [
+            "whereas",
+            "so that",
+            "even though",
+            "unless"
+          ],
+          "answer": "so that",
+          "explanation": "so that 引出目的。註明哪些數字還在核對，是為了讓團隊判斷草稿是否足以彩排。"
+        },
+        {
+          "id": "q3",
+          "options": [],
+          "answer": "with",
+          "explanation": "interfere with + 名詞表示干擾某事。這裡是問週五收到定稿會不會影響彩排。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "draft",
+          "pos": "n.",
+          "meaning": "草稿",
+          "example": "I shared an early draft so that the team could comment before I revised the slides.",
+          "exampleZh": "我先分享初稿，讓團隊在我修改投影片前提出意見。",
+          "note": "a first draft，初稿。"
+        },
+        {
+          "id": "v2",
+          "word": "verify",
+          "pos": "v.",
+          "meaning": "查證，核對",
+          "example": "Please verify the figures against the original report before you send the slides to the client.",
+          "exampleZh": "寄出投影片給客戶前，請對照原始報告核對數字。",
+          "note": "verify A against B，對照 B 核對 A。"
+        },
+        {
+          "id": "v3",
+          "word": "rehearsal",
+          "pos": "n.",
+          "meaning": "彩排，預演",
+          "example": "During the rehearsal, we realised the opening section took longer than we had planned.",
+          "exampleZh": "彩排時，我們發現開場比原先規劃的時間長。",
+          "note": "a rehearsal for a presentation，簡報彩排。"
+        }
+      ]
+    }
+  ]
+}

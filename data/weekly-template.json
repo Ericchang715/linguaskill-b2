@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "sets": [
+    {
+      "id": "2026-11-16-library-hours",
+      "date": "2026-11-16",
+      "title": "圖書館開放時間調整",
+      "topic": "校園生活",
+      "description": "從校園公告找出時間與原因。",
+      "passage": "The library will stay open an hour longer during exam week so that students have more time to study. Normal opening hours will {{q1}} on the following Monday.",
+      "passageZh": "考試週期間，圖書館會延後一小時閉館，讓學生有更多時間讀書。隔週一將恢復平常的開放時間。",
+      "cloze": [
+        {
+          "id": "q1",
+          "answer": "resume",
+          "options": [
+            "remain",
+            "remove",
+            "resume",
+            "require"
+          ],
+          "explanation": "resume 表示恢復。公告說明延長開放只是暫時調整，隔週一將恢復平常的開放時間。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "id": "v1",
+          "word": "resume",
+          "pos": "v.",
+          "meaning": "恢復，重新開始",
+          "example": "Regular bus services will resume once the bridge has reopened to traffic.",
+          "exampleZh": "橋梁恢復通車後，公車將恢復正常班次。",
+          "note": "resume normal service，恢復正常服務"
+        }
+      ]
+    }
+  ]
+}
